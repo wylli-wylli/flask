@@ -6,3 +6,4 @@ before_script:
 script:
 - pip3 install flask
 - python flaskr.py
+- Press CTRL+C to quit
