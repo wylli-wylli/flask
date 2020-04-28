@@ -4,4 +4,5 @@ python:
 before_script:
 - cd flask
 script:
+- pip3 install flask
 - python flaskr.py
