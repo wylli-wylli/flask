@@ -1,8 +1,3 @@
-# Tecnologia WEB
-# AC04 SI - Tutorial Flask
-# aluno: willian.rodrigues@aluno.faculdadeimpacta.com
-
-
 import sqlite3
 from contextlib import closing
 
